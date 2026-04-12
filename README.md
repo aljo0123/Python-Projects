@@ -19,4 +19,20 @@ Concepts Used:
 - loops (while)
 - user input
 
+-2  Python Calculator Project
+  STEM Quiz App
+
+A Python-based quiz application focused on STEM topics.
+
+Features:
+- Multiple STEM questions (Math + CS + Logic)
+- Score tracking system
+- Replay option (loop)
+- Case-insensitive answers
+
+Concepts Used:
+- Dictionary
+- Loops
+- Conditional statements
+
 Goal: Build strong coding skills for ZCO and MIT preparation.
