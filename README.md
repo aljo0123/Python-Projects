@@ -19,8 +19,7 @@ Concepts Used:
 - loops (while)
 - user input
 
--2  Python Calculator Project
-  STEM Quiz App
+-2 STEM Quiz App
 
 A Python-based quiz application focused on STEM topics.
 
@@ -34,5 +33,24 @@ Concepts Used:
 - Dictionary
 - Loops
 - Conditional statements
+
+-3 Tic Tac Toe (Python)
+
+A two-player Tic Tac Toe game built using Python.
+
+Features:
+- Player names
+- Winner detection
+- Draw detection
+- Input validation
+- Replay option
+
+Cocepts Used:
+- Variables
+- Loops
+- Conditional statements
+- Lists
+
+
 
 Goal: Build strong coding skills for ZCO and MIT preparation.
