@@ -4,7 +4,7 @@ This repository is a collection of Python projects I have built while learning a
 
 I started with small programs to understand the basics of Python, and over time I have been adding more features and improving how I structure my code. I use this repository to practice what I learn instead of only following tutorials.
 
-##📂 Projects
+# 📂 Projects
 1. Python Calculator 🧮
 
 A menu type calculator built with Python.
@@ -79,7 +79,7 @@ Conditional statements
 Functions
 Game logic
 
-##⭐ Flagship Projects
+# ⭐ Flagship Projects
 
 Alongside these smaller Python projects, I have also started building larger projects where I combine programming, design, and problem-solving into more complete applications.
 
