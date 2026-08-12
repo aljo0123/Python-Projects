@@ -1,4 +1,3 @@
-```python
 import math
 
 history = []
@@ -104,4 +103,4 @@ while True:
 
     except ValueError:
         print("Error: Please enter valid numbers.")
-```
+
