@@ -1,4 +1,3 @@
-```python
 import random
 
 question_bank = [
@@ -320,4 +319,4 @@ while True:
         print("\nThanks for playing STEM Quiz!")
         print("Keep learning and keep coding!")
         break
-```
+
