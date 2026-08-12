@@ -5,7 +5,7 @@ This repository is a collection of Python projects I have built while learning a
 I started with small programs to understand the basics of Python, and over time I have been adding more features and improving how I structure my code. I use this repository to practice what I learn instead of only following tutorials.
 
 # 📂 Projects
-1. Python Calculator 🧮
+1. Python Calculator 
 
 A menu type calculator built with Python.
 
@@ -29,7 +29,7 @@ Lists
 Error handling
 Python math module
 
-2. STEM Quiz 🧪
+2. STEM Quiz 
 A quiz covering different STEM subjects.
 
 The first version was a simple question and answer program. I later improved it by adding more structure, categories, difficulty levels, randomization, and better results.
@@ -60,7 +60,7 @@ Randomization
 String methods
 Data organization
 
-3. Tic Tac Toe 🎮
+3. Tic Tac Toe 
 A two player Tic Tac Toe game built using Python.
 
 Features:
@@ -83,19 +83,19 @@ Game logic
 
 Alongside these smaller Python projects, I have also started building larger projects where I combine programming, design, and problem-solving into more complete applications.
 
-🎮 Tic Tac Toe Arena
+ Tic Tac Toe Arena
 
 A modern browser based Tic Tac Toe game with local multiplayer, AI opponents, difficulty levels, responsive design, sound effects, animations, and game statistics.
 
 Focus: Web development, game logic, UI/UX, JavaScript, HTML, CSS.
 
-🤖 CreatorAI Toolkit
+ CreatorAI Toolkit
 
 An AI powered content creation toolkit designed to help creators generate captions, hooks, titles, and hashtags, with additional content planning and analytics features.
 
 Focus: AI integration, Python, Flask, databases, web development, and product design.
 
-🎮 Parallel
+ Parallel
 
 A browser game project built with Phaser, focused on creating an original gameplay experience with interactive mechanics and game systems.
 
